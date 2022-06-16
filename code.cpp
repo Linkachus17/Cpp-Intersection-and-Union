@@ -115,7 +115,6 @@ void setUnion(){
         
 }
 
-
 void menu(){
 
     printf("1. Insert data A\n2. Insert data B\n3. Intersection output\n4. Union output\n\n");
